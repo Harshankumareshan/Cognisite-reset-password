@@ -1,0 +1,25 @@
+.logo{
+    border-radius: 20px;
+}
+.login-form{
+    display: flex;
+    justify-content: center;
+}
+/* login-page */
+.login-btn{
+    padding-top: 2rem;
+}
+.password-txt{
+    padding-top: 1.5rem;
+}
+.dashboard-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 6rem;
+
+}
+
+.naruto-img{
+    width: 30rem;
+}
